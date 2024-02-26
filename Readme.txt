@@ -1,0 +1,1 @@
+This is an experimentation with PDF-Lib: https://www.npmjs.com/package/pdf-lib?activeTab=readme
